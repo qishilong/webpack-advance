@@ -1,0 +1,15 @@
+{
+  "name": "webpack-advance",
+  "version": "1.0.0",
+  "description": "webpack advance learn",
+  "main": "index.js",
+  "author": "qishilong",
+  "license": "MIT",
+  "scripts": {
+    "build": "npx webpack --entry=./index.js --mode=development"
+  },
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
